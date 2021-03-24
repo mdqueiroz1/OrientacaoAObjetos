@@ -1,0 +1,3 @@
+Em um jogo arcade, onde toda vez que for iniciado um novo jogo o player terá a pontuação zerada e novamente calculada 
+durante a jogatina para entrar para a lista de recordes daquele arcade. Se for inicializado depois, pode ocorrer erro 
+em calcular a pontuação alcançada pelo player.

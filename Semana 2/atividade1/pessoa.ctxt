@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=pessoa
+comment1.params=dia\ mes\ ano
+comment1.target=void\ armazenar(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ imprimir()
+numComments=3

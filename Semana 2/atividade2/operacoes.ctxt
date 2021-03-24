@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=operacoes
+comment1.params=num1\ num2
+comment1.target=int\ soma(int,\ int)
+comment2.params=num1\ num2
+comment2.target=double\ potenciacao(int,\ int)
+comment3.params=num1\ num2
+comment3.target=double\ imc(int,\ int)
+numComments=4

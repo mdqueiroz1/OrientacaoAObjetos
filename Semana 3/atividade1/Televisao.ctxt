@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Televisao
+comment1.params=ligado\ standby\ tvCanal\ entradaCanal
+comment1.target=Televisao(boolean,\ boolean,\ int,\ java.lang.String)
+comment2.params=ligado\ tvCanal\ entradaCanal
+comment2.target=Televisao(boolean,\ int,\ java.lang.String)
+comment3.params=ligado\ entradaCanal
+comment3.target=Televisao(boolean,\ java.lang.String)
+comment4.params=ligado
+comment4.target=Televisao(boolean)
+comment5.params=entradaCanal
+comment5.target=Televisao(java.lang.String)
+comment6.params=
+comment6.target=void\ imprimir()
+numComments=7
